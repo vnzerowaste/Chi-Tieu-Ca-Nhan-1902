@@ -1,0 +1,15 @@
+{
+  "short_name": "ShopeeHunter",
+  "name": "Shopee Deal Hunter Pro",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Shopee.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ee4d2d",
+  "background_color": "#ffffff"
+}
